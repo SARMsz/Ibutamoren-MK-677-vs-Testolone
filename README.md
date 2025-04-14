@@ -150,7 +150,9 @@
 
 <hr />
 
-![image](https://github.com/user-attachments/assets/d229eb60-e53a-4072-b753-c73ef53392c7)
+
+![image](https://github.com/user-attachments/assets/e61e2651-3e44-46a9-a83c-e3c703751bce)
+
 
 <h2>FAQs</h2>
 <dl>
